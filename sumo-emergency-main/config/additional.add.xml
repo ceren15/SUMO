@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+
+    <!-- Araç tipleri -->
+    <vType id="ambulance" vClass="emergency" accel="2.6" decel="4.5" length="6.0" width="2.5" maxSpeed="30.0" color="1,1,1" guiShape="emergency"/>
+    <vType id="passenger_default" vClass="passenger" accel="2.0" decel="4.0" length="4.5" width="2.0" maxSpeed="20.0" color="1,1,0" guiShape="passenger"/>
+    
+    <!-- Network dosyasında otomatik trafik ışığı programları olabilir -->
+    <!-- TraCI ile kontrol controllers/traffic_light.py üzerinden yapılacak -->
+    
+</additional>
