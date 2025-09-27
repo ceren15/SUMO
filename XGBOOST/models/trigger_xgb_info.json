@@ -1,0 +1,21 @@
+{
+  "feature_names": [
+    "dist_to_tls",
+    "ambulance_speed",
+    "queue_length",
+    "eta_seconds",
+    "phase_index",
+    "phase_remaining"
+  ],
+  "feature_types": [
+    "float",
+    "float",
+    "float",
+    "float",
+    "int",
+    "float"
+  ],
+  "model_type": "binary_classification",
+  "threshold": 0.5,
+  "description": "Ambulans trafik \u0131\u015f\u0131\u011f\u0131 \u00f6ncelik tetikleme modeli"
+}
